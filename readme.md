@@ -11,6 +11,7 @@ La génération se fait de la manière suivante :
 - On ajoute une probabilité de disparitition pour chaque chiffre d'une solution complète ce qui permet de rendre la grille incomplète : on a obtenu notre sudoku et on a la garantie qu'une solution non forcément unique existe.
 
 Exemple d'output :
+```text
 
    8     |           |           
          |           |         
@@ -73,6 +74,6 @@ Exemple d'output :
       2  |  1  7     |  9  3     
          |           |         
 
-
+```
 
 
